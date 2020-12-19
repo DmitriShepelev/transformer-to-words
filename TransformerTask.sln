@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformerToWords", "TransformerToWords\TransformerToWords.csproj", "{D260CAB0-1956-48B9-93F6-30C2F547ECFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransformerToWords", "TransformerToWords\TransformerToWords.csproj", "{D260CAB0-1956-48B9-93F6-30C2F547ECFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
